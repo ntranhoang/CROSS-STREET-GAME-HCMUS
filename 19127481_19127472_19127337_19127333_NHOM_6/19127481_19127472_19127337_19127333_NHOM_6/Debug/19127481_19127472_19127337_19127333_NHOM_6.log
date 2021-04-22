@@ -1,0 +1,67 @@
+﻿  Source.cpp
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(144,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(144,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(254,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(259,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(259,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(385,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(385,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(391,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(391,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(398,72): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(398,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(408,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(408,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(434,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(434,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(481,22): warning C4551: function call missing argument list
+C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\19127481_19127472_19127337_19127333_NHOM_6\Source.cpp(538,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  19127481_19127472_19127337_19127333_NHOM_6.vcxproj -> C:\Users\Hoang Nam\Downloads\19127481-_19127472_19127337_19127333\19127481_19127472_19127337_19127333_NHOM_6\Debug\19127481_19127472_19127337_19127333_NHOM_6.exe
